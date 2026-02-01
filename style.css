@@ -4,3 +4,6 @@
 button{
     font-size: xx-large !important;
 }
+input{
+    background-color: red;
+}
